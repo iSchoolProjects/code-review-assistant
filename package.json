@@ -1,0 +1,27 @@
+{
+  "name": "code-review-assistant",
+  "version": "1.0.0",
+  "description": "HTML and CSS files review helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iSchoolProjects/code-review-assistant.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "assistant",
+    "npm",
+    "node",
+    "ghactions"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iSchoolProjects/code-review-assistant/issues"
+  },
+  "homepage": "https://github.com/iSchoolProjects/code-review-assistant#readme"
+}
